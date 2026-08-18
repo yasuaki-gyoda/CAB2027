@@ -1,10 +1,10 @@
 ---
 title: "プログラム・講演資料"
-permalink: /CAB2027/program/
+permalink: /program/
 author_profile: true
 ---
 
-[研究集会トップへ戻る]({{ site.url }}/workshop/)
+[研究集会トップへ戻る]({{ '/' | relative_url }})
 
 時刻はすべて日本標準時（JST, UTC+9）です。
 
