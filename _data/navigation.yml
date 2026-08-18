@@ -1,0 +1,14 @@
+# main links links
+main:
+  - title: "経歴"
+    url: /cv/
+    
+  - title: "論文"
+    url: /papers/
+    
+  - title: "講演"
+    url: /talks/
+
+  - title: "ENGLISH"
+    url: https://yasuaki-gyoda.github.io/en/
+    
