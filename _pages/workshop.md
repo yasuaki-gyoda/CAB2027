@@ -1,6 +1,6 @@
 ---
 title: "Cluster Algebras and beyond 2027"
-permalink: //
+permalink: /
 author_profile: false
 ---
 
