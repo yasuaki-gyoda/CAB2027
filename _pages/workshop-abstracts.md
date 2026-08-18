@@ -1,10 +1,10 @@
 ---
 title: "講演題目と概要"
-permalink: /CAB2027/abstracts/
+permalink: /abstracts/
 author_profile: true
 ---
 
-[研究集会トップへ戻る]({{ site.url }}/workshop/)
+[研究集会トップへ戻る]({{ '/' | relative_url }})
 
 ## Speaker 1（Affiliation）
 
